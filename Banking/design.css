@@ -1,0 +1,132 @@
+.h{
+	text-align:center;
+	background: yellow;
+	padding:10px;
+	border:2px solid black;
+}
+
+#b{
+	
+}
+#d{
+	height:820px;
+	width:400px;
+	background:#D7DBDD  ;
+	border:3px solid black;
+	border-radius:25px;
+	margin:0 auto;
+}
+#dbr{
+	height:500px;
+	width:400px;
+	background:#D7DBDD  ;
+	border:3px solid black;
+	border-radius:25px;
+	margin:0 auto;
+}
+#dcu{
+	height:880px;
+	width:400px;
+	background:#D7DBDD  ;
+	border:3px solid black;
+	border-radius:25px;
+	margin:0 auto;
+}
+#dnm{
+	height:700px;
+	width:400px;
+	background:#D7DBDD  ;
+	border:3px solid black;
+	border-radius:25px;
+	margin:0 auto;
+}
+#dln{
+	height:560px;
+	width:400px;
+	background:#D7DBDD  ;
+	border:3px solid black;
+	border-radius:25px;
+	margin:0 auto;
+}
+#dtr{
+	height:550px;
+	width:400px;
+	background:#D7DBDD  ;
+	border:3px solid black;
+	border-radius:25px;
+	margin:0 auto;
+}
+#depu{
+	height:480px;
+	width:400px;
+	background:#D7DBDD  ;
+	border:3px solid black;
+	border-radius:25px;
+	margin:0 auto;
+}
+#dd{
+	height:700px;
+	width:400px;
+	background:#D7DBDD  ;
+	border:3px solid black;
+	border-radius:25px;
+	margin:0 auto;
+}
+#hd{
+	height:400px;
+	width:400px;
+	background:#D7DBDD  ;
+	border:3px solid black;
+	border-radius:25px;
+	margin:0 auto;
+}
+#bpd{
+	height:500px;
+	width:400px;
+	background:#D7DBDD  ;
+	border:3px solid black;
+	border-radius:25px;
+	margin:0 auto;
+}
+#dc{
+	height:450px;
+	width:400px;
+	background:#D7DBDD  ;
+	border:3px solid black;
+	border-radius:25px;
+	margin:0 auto;
+}
+#form{
+	margin:10px;
+	text-align:center;
+	padding:3px;
+	height:30px;
+	width:380px;
+	
+}
+.account_img{
+	text-align:center;
+	height:150px;
+	width:150px;
+}
+
+#account_button{
+	margin:5px;
+	text-align:center;
+	padding:2px;
+	height:35px;
+	width:380px;
+	background:#2ECC71;
+	border:3px solid black;
+	border-radius:10px;
+}
+#customer_button{
+	margin:5px;
+	text-align:center;
+	padding:2px;
+	height:35px;
+	width:380px;
+	background:#2ECC71;
+	border:3px solid black;
+	border-radius:10px;
+}
